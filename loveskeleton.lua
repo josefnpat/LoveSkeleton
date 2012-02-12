@@ -85,6 +85,6 @@ if arg[1] then
   end
   io.write(output)
 else
-  print("Usage: ./skel.lua [<libname>|love]")
+  print("Usage: ./loveskeleton.lua [<libname>|love]")
 end
 

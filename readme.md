@@ -34,4 +34,4 @@ The philisophy of this script is that you should *never edit `main.lua`*. Every 
 
 It is importiant to also note, that LoveSkeleton creates a global `state` variable that starts as `nil`.
 
-If `love` is passes as the argument, the script will only rebuild the main.lua
+If `love` is passes as the argument, the script will only rebuild the `main.lua`.
